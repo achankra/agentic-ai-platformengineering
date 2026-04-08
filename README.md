@@ -1,3 +1,7 @@
+***** DO NOT USE THIS REPO. THIS WAS ONLY INTENDED FOR THE JANUARY 2026 COURSE *****
+
+Please use the latest [repo](https://github.com/achankra/agentic-pe-oreilly)
+
 # Agentic AI in Platform Engineering
 
 Interactive demos showcasing how AI agents can solve platform engineering challenges using Claude API and Python used in the Agentic AI in Platform Engineering Course
